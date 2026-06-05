@@ -1,0 +1,11 @@
+{
+  "2.57.122.177":   {"abuse_score": 100, "abuse_isp": "TECHOFF SRV LIMITED",          "abuse_country": "RO", "abuse_reports": 128390},
+  "5.35.107.110":   {"abuse_score": 100, "abuse_isp": "Cloud Services Kazakhstan LLP", "abuse_country": "KZ", "abuse_reports": 572},
+  "92.204.138.44":  {"abuse_score": 100, "abuse_isp": "Host Europe GmbH",              "abuse_country": "US", "abuse_reports": 233},
+  "103.89.136.111": {"abuse_score": 100, "abuse_isp": "Genesys International Corp",    "abuse_country": "IN", "abuse_reports": 847},
+  "130.12.180.51":  {"abuse_score": 100, "abuse_isp": "DataCity",                      "abuse_country": "CA", "abuse_reports": 412},
+  "45.128.232.110": {"abuse_score":  75, "abuse_isp": "Aeza Group Ltd",                "abuse_country": "NL", "abuse_reports": 89},
+  "185.220.101.42": {"abuse_score":  45, "abuse_isp": "Tor Exit Node (tor-exit.example)", "abuse_country": "DE", "abuse_reports": 34},
+  "62.210.183.73":  {"abuse_score":   8, "abuse_isp": "Online SAS",                    "abuse_country": "FR", "abuse_reports": 3},
+  "194.165.16.11":  {"abuse_score":   0, "abuse_isp": "Aeza International Ltd",        "abuse_country": "RU", "abuse_reports": 0}
+}

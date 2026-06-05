@@ -1,0 +1,8 @@
+.env
+cache/
+enriched.json
+output.csv
+__pycache__/
+*.pyc
+.DS_Store
+REQUIREMENTS.md
